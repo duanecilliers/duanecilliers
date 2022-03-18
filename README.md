@@ -1,3 +1,8 @@
+# Hey there :wave:
+Welcome to my page!
+
+I'm Duane, a fullstack developer from Cape Town, South Africa.
+
 [![Duane's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Duane's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duanecilliers&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
