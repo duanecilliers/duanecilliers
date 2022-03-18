@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://cdn-icons-png.flaticon.com/512/197/197562.png" width="13"/>. I'm currently working as a senior frontend developer at [reOS](https://reos.co.za/).
+I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://cdn-icons-png.flaticon.com/512/197/197562.png" width="13"/>  currently working as a senior frontend developer at [reOS](https://reos.co.za/).
 
 ## Languages and Tools
 <p>
