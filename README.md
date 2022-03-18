@@ -1,5 +1,7 @@
 [![Duane's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=ayu-mirage&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanecilliers&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **duanecilliers/duanecilliers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
