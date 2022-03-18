@@ -2,7 +2,7 @@
 
 [![Duane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanecilliers&theme=radical&count_private=true&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Duane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duane_reos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Duane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duane_reos&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
