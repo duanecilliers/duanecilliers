@@ -1,5 +1,7 @@
 [![Duane's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Duane's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duanecilliers&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Duane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanecilliers&theme=radical&count_private=true&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Duane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duane_reos&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
