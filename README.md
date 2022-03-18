@@ -4,6 +4,8 @@
 
 [![Duane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanecilliers&theme=radical&count_private=true&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duanecilliers&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- [![Duane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duane_reos&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
