@@ -24,6 +24,7 @@ I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Scala" src="https://img.shields.io/badge/-Scala-861f15?style=flat-square&logo=scala&logoColor=white" />
 </p>
 
 [![Duane's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
