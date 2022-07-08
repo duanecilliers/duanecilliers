@@ -27,7 +27,7 @@ I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
-[![Duane's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=radical&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Duane's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duanecilliers&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)](https://git.io/streak-stats)
+<img alt="Duane's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=radical&show_icons=true&count_private=true&hide_border=true"><img alt="Duane's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=duanecilliers&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
 <!-- [![Duane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanecilliers&theme=radical&count_private=true&hide=php&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
