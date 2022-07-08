@@ -21,19 +21,18 @@ I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <!-- <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /> -->
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Scala" src="https://img.shields.io/badge/-Scala-861f15?style=flat-square&logo=scala&logoColor=white" />
 </p>
 
-[![Duane's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Duane's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=radical&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Duane's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duanecilliers&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)](https://git.io/streak-stats)
 
-[![Duane's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duanecilliers&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![Duane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanecilliers&theme=radical&count_private=true&hide=php&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Duane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanecilliers&theme=radical&count_private=true&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+![Duane's github activity graph](https://activity-graph.herokuapp.com/graph?username=duanecilliers&hide_border=true&hide_title=true&theme=github&bg_color=141321&line=d83a7c&point=f8d847)
 
-## Currently Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duanecilliers&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- [![Duane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duane_reos&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
