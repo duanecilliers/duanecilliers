@@ -5,6 +5,9 @@ I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://
 - 🔭 I’m currently working at [reOS](https://reos.co.za/) (TypeScript, React and some Scala)
 - 🌱 I’m currently learning advanced TypeScript and Three.js
 
+## Listening To
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duanecilliers&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ## Languages and Tools
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -35,9 +38,6 @@ I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://
 <!-- [![Duane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanecilliers&theme=radical&count_private=true&hide=php&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Duane's github activity graph](https://activity-graph.herokuapp.com/graph?username=duanecilliers&hide_border=true&hide_title=true&theme=github&bg_color=141321&line=d83a7c&point=f8d847)
-
-## Currently Listening To
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duanecilliers&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- [![Duane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duane_reos&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
