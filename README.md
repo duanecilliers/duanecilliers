@@ -3,7 +3,7 @@
 I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://cdn-icons-png.flaticon.com/512/197/197562.png" width="13"/>.
 
 - 🔭 I’m currently working at [reOS](https://reos.co.za/) (TypeScript, React and some Scala)
-- 🌱 I’m currently learning advanced TypeScript and Three.js
+- 🌱 I’m currently learning advanced TypeScript, Three.js and playing with the idea of switching to VIM 😬
 
 ## Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duanecilliers&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
