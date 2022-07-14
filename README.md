@@ -1,9 +1,10 @@
-# Hey there :wave:
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
 
 I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://cdn-icons-png.flaticon.com/512/197/197562.png" width="13"/>.
 
 - 🔭 I’m currently working at [reOS](https://reos.co.za/) (TypeScript, React and some Scala)
 - 🌱 I’m currently learning advanced TypeScript, Three.js and playing with the idea of switching to VIM 😬
+- ⚡ I'm switching from VSCode to Neovim <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="20px" height="20px" />. [The Primeagen](https://github.com/ThePrimeagen) inspired me in his [vimtutor speed run](https://www.youtube.com/watch?v=y6VJBeZEDZU) and sold me in [Vim as your editor](https://www.youtube.com/watch?v=H3o4l4GVLW0).
 
 ## Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duanecilliers&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
@@ -32,6 +33,9 @@ I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
+
+<h2>Where to find me</h2>
+<p><a href="https://twitter.com/duanecilliers" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/duane-cilliers-34665915/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></a>
 
 <img alt="Duane's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=radical&show_icons=true&count_private=true&hide_border=true"><img alt="Duane's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=duanecilliers&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
