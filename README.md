@@ -35,7 +35,14 @@ I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://
 </p>
 
 <h2>Where to find me</h2>
-<p><a href="https://twitter.com/duanecilliers" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/duane-cilliers-34665915/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></a>
+<p>
+  <a href="https://twitter.com/duanecilliers" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/duane-cilliers-34665915/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <img alt="Duane's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=duanecilliers&theme=radical&show_icons=true&count_private=true&hide_border=true"><img alt="Duane's GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=duanecilliers&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
