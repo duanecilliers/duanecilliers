@@ -3,7 +3,7 @@
 I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://cdn-icons-png.flaticon.com/512/197/197562.png" width="13"/>.
 
 - 🔭 I’m currently working at [reOS](https://reos.co.za/) (TypeScript, React and some Scala)
-- 🌱 I’m currently learning advanced TypeScript, Three.js and playing with the idea of switching to VIM 😬
+- 🌱 I’m currently learning advanced TypeScript and Three.js.
 - ⚡ I'm switching from VSCode to Neovim <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="20px" height="20px" />. [The Primeagen](https://github.com/ThePrimeagen) inspired me in his [vimtutor speed run](https://www.youtube.com/watch?v=y6VJBeZEDZU) and sold me in [Vim as your editor](https://www.youtube.com/watch?v=H3o4l4GVLW0).
 
 ## Listening To
