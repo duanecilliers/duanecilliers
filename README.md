@@ -51,7 +51,7 @@ I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://
 
 <!-- [![Duane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanecilliers&theme=radical&count_private=true&hide=php&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Duane's github activity graph](https://activity-graph.herokuapp.com/graph?username=duanecilliers&hide_border=true&hide_title=true&theme=github&bg_color=141321&line=d83a7c&point=f8d847)
+<!-- ![Duane's github activity graph](https://activity-graph.herokuapp.com/graph?username=duanecilliers&hide_border=true&hide_title=true&theme=github&bg_color=141321&line=d83a7c&point=f8d847) -->
 
 <!-- [![Duane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duane_reos&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
