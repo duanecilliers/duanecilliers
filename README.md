@@ -6,8 +6,10 @@ I'm Duane, a fullstack developer from Cape Town, South Africa <img src="https://
 - 🌱 I’m currently learning advanced TypeScript, Three.js and dabbling a bit with Rust.
 - ⚡ I'm switching from VSCode to Neovim <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="20px" height="20px" />. [The Primeagen](https://github.com/ThePrimeagen) inspired me in his [vimtutor speed run](https://www.youtube.com/watch?v=y6VJBeZEDZU) and sold me in [Vim as your editor](https://www.youtube.com/watch?v=H3o4l4GVLW0).
 
+<!--
 ## Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duanecilliers&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+-->
 
 ## Languages and Tools
 <p>
